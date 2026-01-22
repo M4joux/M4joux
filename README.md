@@ -10,12 +10,11 @@
 
 ## 👋 About Me
 
-Hi, I'm **Mohamed** — a curious and driven creator who enjoys learning by building and experimenting with real projects.
+Hi, I'm Mohamed, a curious and driven creator who enjoys learning by building and experimenting with real projects.
 
-I spend a lot of my time exploring how software systems work, improving my fundamentals, and turning ideas into working prototypes.  
-For me, progress comes from consistency, curiosity, and hands-on practice.
+I spend a large part of my time exploring how software systems work, strengthening my fundamentals, and turning ideas into functional prototypes. I believe real understanding comes from hands on practice, iteration, and continuous learning.
 
-I’m not focused on titles or labels — I’m focused on **understanding**, **building**, and **getting better over time**.
+I am not focused on titles or labels. My focus is on understanding how things work, building practical systems, and improving steadily over time through consistency and curiosity.
 
 ---
 
