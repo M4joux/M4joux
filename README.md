@@ -1,38 +1,56 @@
-![Typing](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&color=4F46E5&pause=600&center=true&vCenter=true&random=false&width=1200&lines=Hi,+I'm+Mohamed+Djaoux;Creator+%7C+Builder+%7C+Lifelong+Learner;Building+real+projects+and+learning+by+doing)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=4B6CFF&pause=600&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Mohamed;Curious+Developer+%26+System+Learner;Building+Projects+%7C+Learning+by+Doing" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M4joux&color=4F46E5&style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Learning%20%26%20Building-6366F1" />
-  <img src="https://img.shields.io/badge/Mindset-Consistency%20%26%20Growth-8B5CF6" />
+  <img src="https://komarev.com/ghpvc/?username=M4joux&color=4B6CFF&style=flat" />
 </p>
 
 ---
 
-## ☕ About Me
+## 👋 About Me
 
-I’m Mohamed — a curious and driven creator who enjoys learning, building, and exploring ideas through hands-on projects.
+Hi, I'm **Mohamed** — a curious and driven creator who enjoys learning by building and experimenting with real projects.
 
-I focus on turning concepts into real, working systems. I value consistency, experimentation, and long-term growth over shortcuts. Every project I work on is part of an ongoing journey of improvement and discovery.
+I spend a lot of my time exploring how software systems work, improving my fundamentals, and turning ideas into working prototypes.  
+For me, progress comes from consistency, curiosity, and hands-on practice.
+
+I’m not focused on titles or labels — I’m focused on **understanding**, **building**, and **getting better over time**.
 
 ---
 
-## 🛠️ 0x00 > Skills & Tools
+## 🛠️ 0x00 > Environment & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,github,linux,windows,vscode&perline=7" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,nodejs,python,threejs&perline=6" />
 </p>
 
-I actively practice by building projects, refining fundamentals, and learning how different systems work together. My goal is to strengthen my foundations while continuously expanding my understanding.
+These are the core tools and environments I use while learning and building real projects.
+
+My approach is straightforward:
+- learn by building, not memorizing  
+- experiment, break things, and fix them  
+- focus on how systems work under the hood  
+- improve step by step through hands-on work  
+
+This setup reflects my current path: exploring systems, game logic, networking, and performance through practical experimentation.
 
 ---
 
-## 🚀 0x01 > Projects
+## 🧩 0x01 > Projects & Learning
 
-You can explore my projects and experiments here:
+I work on small to medium-scale projects that help me understand:
+- client–server architecture  
+- real-time systems  
+- performance considerations  
+- persistence and state management  
 
-👉 https://github.com/M4joux
+One example is **Maincraft**, a Minecraft-inspired multiplayer voxel engine prototype built for learning purposes.
 
-> This space evolves as I learn, build, break things, and improve over time.
+You can explore my work here:
+👉 **https://github.com/M4joux**
+
+Projects evolve as I learn — nothing here is “finished”, everything is a step forward.
 
 ---
 
@@ -46,24 +64,23 @@ You can explore my projects and experiments here:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=M4joux&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4joux&layout=compact&theme=tokyonight" />
-</p>
-
 ---
 
-## ☕ 0x03 > Support My Journey
+## ☕ Support My Journey
 
-If you find my work useful or inspiring, you can support me here:
+If anything I’ve built or shared has been useful or interesting to you, support is always appreciated — but never expected.
 
-💛 Buy Me a Coffee  
-https://buymeacoffee.com/mohameddjaboux
+<p align="center">
+  <a href="https://buymeacoffee.com/mohameddjaboux">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?style=for-the-badge&logo=buymeacoffee" />
+  </a>
+</p>
 
 <details>
-  <summary>💳 Cryptocurrency Wallets</summary>
+  <summary>📬 Cryptocurrency Wallets</summary>
 
-| Currency | Wallet Address |
-|--------|----------------|
+| Currency | Address |
+|--------|---------|
 | Bitcoin (BTC) | `bc1q3smxjtjesh3km3rl0y89nyg964esdjkkmtwyhm` |
 | Ethereum (ETH) | `0x891c40D9ac520DC6c8827eDD744ee15c472e88Ff` |
 | USDT (TRC-20) | `TJriJCkKnG8d6dh1tejmz79JtUvnNoRirc` |
@@ -72,5 +89,5 @@ https://buymeacoffee.com/mohameddjaboux
 
 ---
 
-> 🔄 This profile will continue evolving as I learn, build, and grow.  
+> This profile will keep evolving as I learn, build, and explore new ideas.  
 > Thanks for stopping by 🤍
