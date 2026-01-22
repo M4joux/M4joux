@@ -1,51 +1,69 @@
-👋 Hi, I'm M4joux
+<div align="center">
 
-I'm a game and engine developer focused on building voxel-based systems, real-time simulations, and multiplayer architectures.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=header&text=M4joux&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-I enjoy working close to the fundamentals: how worlds are generated, how data flows between client and server, and how performance scales as complexity grows.
+<br/>
 
-🧠 About Me
+### Game & Engine Developer
 
-I build voxel engines inspired by Minecraft-like worlds
+<br/>
 
-I focus on clean architecture and deterministic logic
+<img src="https://img.shields.io/badge/Voxel%20Engines-000000?style=flat-square&logo=cube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-000000?style=flat-square&logo=webgl&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multiplayer-000000?style=flat-square"/>
 
-I'm interested in procedural generation, physics, and networked gameplay
+<br/><br/>
 
-I prefer understanding systems deeply rather than relying on heavy abstractions
+---
 
-🛠️ Technical Interests
+<br/>
 
-JavaScript / TypeScript
+### Focus
 
-Python (procedural systems)
+Procedural worlds · Voxel systems · Multiplayer architecture  
+Solid logic · Performance · Clean design
 
-Node.js (server-side logic)
+<br/>
 
-Three.js / WebGL
+---
 
-Multiplayer game architecture
+<br/>
 
-Chunk streaming & greedy meshing
+### Tech
 
-🎯 What I Care About
+<img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,threejs&theme=dark" />
 
-Correct logic before visual polish
+<br/>
 
-Systems that are simple, predictable, and efficient
+---
 
-Prototypes that actually run and can evolve
+<br/>
 
-Learning by building real systems from scratch
+### Philosophy
 
-📌 Currently
+> Build systems that **work**,  
+> then make them **beautiful**.
 
-Experimenting with voxel world generation
+<br/>
 
-Improving collision, physics, and world logic
+---
 
-Exploring multiplayer synchronization models
+<br/>
 
-📫 Contact
+<img src="https://github-readme-stats.vercel.app/api?username=M4joux&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=2c5364&text_color=aaaaaa" />
 
-GitHub: https://github.com/M4joux
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=M4joux&hide_border=true&background=00000000&stroke=2c5364&ring=2c5364&fire=2c5364&currStreakLabel=aaaaaa" />
+
+<br/>
+
+---
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=40&section=footer"/>
+
+</div>
